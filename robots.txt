@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rvikerac.github.io/sitemap.html.gz
+Sitemap: https://rvikerac.github.io/app/sitemap.html.gz
+Sitemap: https://rvikerac.github.io/assets/sitemap.html.gz
+Sitemap: https://rvikerac.github.io/css/sitemap.html.gz
+Sitemap: https://rvikerac.github.io/includes/sitemap.html.gz
+Sitemap: https://rvikerac.github.io/item/sitemap.html.gz
+Sitemap: https://rvikerac.github.io/src/sitemap.html.gz
